@@ -1,0 +1,3 @@
+[submodule "P1"]
+	path = P1
+	url = git@github.com:GuilhermeHaetinger/CS188_P1
